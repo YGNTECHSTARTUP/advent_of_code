@@ -1,0 +1,3 @@
+[submodule "aoc2015"]
+	path = aoc2015
+	url = https://github.com/YGNTECHSTARTUP/aoc2015.git
